@@ -2,7 +2,7 @@ accessing
 execute: query args: args on: sqliteRef do: aBlock
 	"Execute the given query, binding the arguments as needed"
 
-	| ppStmt hStmt code colCount result value err names |
+	| ppStmt hStmt code colCount result value err names rval |
 	ppStmt := WordArray new: 1.
 	(err := self apiPrepareV2: sqliteRef with: query with: query size with: ppStmt with: nil) == 0
 		ifFalse:[self error: 'sqlite_prepare_v2 failed: ', err printString].
@@ -34,9 +34,10 @@ execute: query args: args on: sqliteRef do: aBlock
 			}.
 			result at: i put: value.
 		].
-		aBlock numArgs = result size 
+		rval := aBlock numArgs = result size 
 			ifTrue:[aBlock valueWithArguments: result]
 			ifFalse:[aBlock value: (SQLiteRecord names: names values: result)].
 	].
 	self apiFinalize: hStmt.
 	code = 101 ifFalse:[self error: 'Error code: ', code printString].
+	^rval
