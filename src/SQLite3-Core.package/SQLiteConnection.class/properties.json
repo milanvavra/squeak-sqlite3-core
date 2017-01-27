@@ -4,7 +4,7 @@
 		"registry" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "spd 5/19/2010 14:50",
 	"instvars" : [
 		"reference",
 		"fileName" ],
