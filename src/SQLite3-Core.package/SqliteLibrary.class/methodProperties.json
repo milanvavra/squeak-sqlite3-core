@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"default" : "tbn 1/25/2010 19:53",
+		"moduleName" : "tbn 4/1/2008 20:04" },
+	"instance" : {
+		"apiChanges:" : "cf 11/23/2005 15:31",
+		"apiClose:" : "cf 11/23/2005 15:15",
+		"apiErrorMessage:" : "cf 11/23/2005 15:52",
+		"apiFreeTable:" : "cf 11/23/2005 15:32",
+		"apiGetTable:sql:buffer:rows:columns:error:" : "cf 11/23/2005 15:34",
+		"apiLastInsertId:" : "cf 11/23/2005 15:35",
+		"apiOpen:sqlite:" : "cf 11/22/2005 21:59",
+		"changedRows:" : "ab 1/31/2003 16:20",
+		"checkError:" : "cf 11/23/2005 15:36",
+		"checkErrorInteger:" : "cf 11/23/2005 16:16",
+		"close:" : "tbn 1/25/2010 19:52",
+		"freeResultBuffer:" : "ab 12/16/2002 01:30",
+		"lastInsertId:" : "ab 12/16/2002 00:23",
+		"open:" : "cf 11/23/2005 15:22",
+		"resultForQuery:on:" : "tbn 1/25/2010 19:52" } }

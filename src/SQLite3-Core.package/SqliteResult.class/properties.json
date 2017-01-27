@@ -1,0 +1,18 @@
+{
+	"category" : "SQLite3-Core-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"buffer",
+		"rows",
+		"columns",
+		"columnNames",
+		"index" ],
+	"name" : "SqliteResult",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

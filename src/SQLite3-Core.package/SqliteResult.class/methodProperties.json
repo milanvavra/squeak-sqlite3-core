@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"buffer:rows:columns:" : "ab 12/16/2002 01:41" },
+	"instance" : {
+		"atEnd" : "ab 12/16/2002 01:58",
+		"columnNames" : "ab 1/29/2003 16:06",
+		"currentAddress" : "tbn 1/25/2010 19:54",
+		"do:" : "ab 12/16/2002 01:56",
+		"free" : "tbn 1/25/2010 19:54",
+		"nextKeysAndValuesDo:" : "ab 12/16/2002 01:58",
+		"nextRow" : "tbn 1/25/2010 19:54",
+		"nextString" : "tbn 1/25/2010 19:55",
+		"nextValues" : "ab 1/29/2003 16:34",
+		"readColumns" : "tbn 1/25/2010 19:55",
+		"readString" : "ab 12/16/2002 01:47",
+		"readStringAtAddress:" : "tbn 1/25/2010 20:48",
+		"reset" : "tbn 1/25/2010 19:55",
+		"setBuffer:rows:columns:" : "tbn 1/25/2010 19:55" } }

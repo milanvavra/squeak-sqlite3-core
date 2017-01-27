@@ -1,0 +1,14 @@
+{
+	"category" : "SQLite3-Core-Support",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SqliteLibrary",
+	"pools" : [
+		 ],
+	"super" : "ExternalLibrary",
+	"type" : "normal" }

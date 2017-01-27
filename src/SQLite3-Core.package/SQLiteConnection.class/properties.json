@@ -1,0 +1,15 @@
+{
+	"category" : "SQLite3-Core-Public",
+	"classinstvars" : [
+		"registry" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"reference",
+		"fileName" ],
+	"name" : "SQLiteConnection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

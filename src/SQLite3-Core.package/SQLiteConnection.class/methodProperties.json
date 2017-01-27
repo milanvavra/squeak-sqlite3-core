@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"fileNamed:" : "ab 12/16/2002 00:27",
+		"registry" : "tbn 1/25/2010 19:58" },
+	"instance" : {
+		"actAsExecutor" : "tbn 1/25/2010 19:58",
+		"changedRows" : "ab 1/31/2003 16:20",
+		"close" : "tbn 1/25/2010 19:58",
+		"executeQuery:" : "ab 1/29/2003 16:37",
+		"fileName" : "ab 12/16/2002 00:27",
+		"fileName:" : "tbn 1/25/2010 19:58",
+		"finalize" : "ab 2/22/2003 23:15",
+		"isOpen" : "ab 12/16/2002 00:28",
+		"lastInsertId" : "ab 12/16/2002 00:34",
+		"open" : "tbn 1/25/2010 19:58",
+		"register" : "ab 2/22/2003 22:31",
+		"unregister" : "ab 2/22/2003 22:32",
+		"withResultForQuery:do:" : "tbn 1/25/2010 19:58" } }

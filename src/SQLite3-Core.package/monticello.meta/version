@@ -1,0 +1,1 @@
+(name 'SQLite3-Core-tbn.1' message 'initial version with cleanup (no underscores, categorized methods) and ready for metacello' id '5287903d-7f23-4a4a-8f19-62d8d8f80760' date '25 January 2010' time '9:09:22 pm' author 'tbn' ancestors () stepChildren ())
