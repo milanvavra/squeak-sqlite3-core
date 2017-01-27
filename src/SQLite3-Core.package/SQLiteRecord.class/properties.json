@@ -1,0 +1,14 @@
+{
+	"category" : "SQLite3-Core-Public",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SQLiteRecord",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }

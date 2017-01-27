@@ -4,5 +4,5 @@ checkErrorInteger: anError
 	(anError = 0) ifTrue: [^self].
 	"Get the errmsg"
 
-	message := 'Result Code: ' + anError asString.
+	message := 'Result Code: ', anError asString.
 	self error: message
