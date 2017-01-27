@@ -6,6 +6,7 @@
 		"actAsExecutor" : "tbn 1/25/2010 19:58",
 		"changedRows" : "ab 1/31/2003 16:20",
 		"close" : "tbn 1/25/2010 19:58",
+		"commit" : "ar 12/12/2011 20:50",
 		"execute:args:" : "ar 12/9/2011 19:23",
 		"execute:args:do:" : "ar 12/12/2011 19:04",
 		"executeQuery:" : "ab 1/29/2003 16:37",
@@ -16,6 +17,8 @@
 		"lastInsertId" : "ab 12/16/2002 00:34",
 		"open" : "tbn 1/25/2010 19:58",
 		"register" : "ab 2/22/2003 22:31",
-		"transaction:" : "ar 12/12/2011 16:19",
+		"rollback" : "ar 12/12/2011 20:51",
+		"transact" : "ar 12/12/2011 20:50",
+		"transaction:" : "ar 12/12/2011 20:51",
 		"unregister" : "ab 2/22/2003 22:32",
 		"withResultForQuery:do:" : "tbn 1/25/2010 19:58" } }
