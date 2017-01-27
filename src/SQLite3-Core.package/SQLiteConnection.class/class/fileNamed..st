@@ -1,3 +1,3 @@
-as yet unclassified
+instance creation
 fileNamed: aString
 	^ self new fileName: aString
